@@ -1,0 +1,17 @@
+{
+    "backward": "s",
+    "chat": "/",
+    "debug_mode": "f4",
+    "forward": "w",
+    "fps_toggle": "f1",
+    "freecam": "f2",
+    "inventory": "i",
+    "hitboxes": "f1-q",
+    "left": "a",
+    "pause_menu": "escape",
+    "right": "d",
+    "screenshot": "f3",
+    "server_list": "`",
+    "trade_menu": "p",
+    "wireframe_toggle": "tab"
+}

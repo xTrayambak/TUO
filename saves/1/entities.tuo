@@ -1,0 +1,33 @@
+{
+    "type": "list",
+    "items": [
+        {
+            "name": "Player",
+            "uuid": null,
+            "position": {
+                "x": 118.40132904052734,
+                "y": 0.49929046630859375,
+                "z": 64.0
+            },
+            "achievements": [],
+            "killed": {
+                "tuo::player": [
+                    0,
+                    0
+                ],
+                "tuo::bandit": [
+                    0,
+                    0
+                ]
+            },
+            "death_counter": 0,
+            "potion_effects": [
+                {
+                    "id": "tuo::speed",
+                    "level": 2,
+                    "left_frames": 65536
+                }
+            ]
+        }
+    ]
+}

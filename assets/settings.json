@@ -1,0 +1,53 @@
+{
+    "accessibility": {
+        "narrator": true
+    },
+    "audio": {
+        "volume": 100
+    },
+    "debugging": {},
+    "keybinds": {
+        "backward": "s",
+        "backward_stop": "s-up",
+        "chat": "/",
+        "debug_mode": "f4",
+        "forward": "w",
+        "forward_stop": "w-up",
+        "fps_toggle": "f1",
+        "freecam": "f2",
+        "inventory": "i",
+        "left": "a",
+        "left_stop": "a-up",
+        "pause_menu": "escape",
+        "right": "d",
+        "right_stop": "d-up",
+        "screenshot": "f3",
+        "server_list": "`",
+        "trade_menu": "p",
+        "wireframe_toggle": "tab"
+    },
+    "language": "en_US",
+    "networking": {
+        "auth_server": "waveauthserver.pythonanywhere.com",
+        "proxy": [
+            {
+                "ip": "localhost",
+                "port": 5050
+            }
+        ]
+    },
+    "video": {
+        "antialiasing_levels": 0,
+        "ao": true,
+        "clouds_height_unit": 1024,
+        "fov": 90,
+        "god_rays": true,
+        "hdr": true,
+        "max_framerate": 240,
+        "pbr": false,
+        "vignette": false
+    },
+    "volumes": {
+        "master": 0
+    }
+}

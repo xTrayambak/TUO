@@ -1,0 +1,44 @@
+{
+    "death.void": [
+        "{} fell into the void",
+        "{} un-materialized",
+        "{} fell into the depths of nothing"
+    ],
+    "death.slain_melee": [
+        "{} was slain by {}",
+        "{} was killed by {}",
+        "{} was brutally stabbed by {}",
+        "{} thought it was funny to try their weapon on {}"
+    ],
+    "death.void_push": [
+        "{} fell into the void, because {} thought it was funny"
+    ],
+    "death.slain_ranged": [
+        "{} was shot by {}",
+        "{} got yeeted by {}"
+    ],
+    "death.unknown": [
+        "{} died."
+    ],
+    "death.boss_1": [
+        "{} was killed by ",
+        "{} decided to give a visit to ",
+        "{} thought it was a good idea to give  a tickle"
+    ],
+    "death.boss_2": [
+        "{} was burnt alive by ",
+        "{} was infernized by ",
+        "{} was blazed-apart by "
+    ],
+    "death.boss_3": {
+        "NORMAL_DEATHS": [
+            "{} was voided by "
+        ],
+        "MOVE_DEATHS": {
+            "void_strike": ["{} was void-striked by ", "{} was turned to 0s and 1s by ", "{} got struck by void strikes."],
+            "fake_platforms": ["{} fell for 's age-old platform faking trick.", "{} fell into the void, thanks to "],
+            "clones": ["{} fell for 's illusions"],
+            "minions": ["{} was taken care of by 's void minions", "'s minions were enough to take down {}"]
+        } 
+    }
+}

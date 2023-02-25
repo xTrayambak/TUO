@@ -1,0 +1,61 @@
+{
+    "images": {
+        "logo_default": "assets/img/tuo_logo.png",
+        "syntax_logo_default": "assets/img/syntaxlogo.png"
+    },
+    "loading_screen_images": {
+        "image001": {"path":"assets/img/loading001.png", "author": "Arima Afios, Lead Artist"}
+    },
+    "songs": {
+        "song001": {"path": "assets/music/gone.mp3", "conditions": {"playsIn": "ingame"}},
+        "song002": {"path": "assets/music/harbinger_of_joy.mp3", "conditions":{"playsIn": "ingame"}},
+        "song003": {"path": "assets/music/unlighted.mp3", "conditions": {"playsIn": "menu"}},
+        "song004": {"path": "assets/music/white_phantom.mp3", "conditions": {"playsIn": "end_credits"}},
+        "song005": {"path": "assets/music/sonata.flac", "conditions": {"playsIn": "ingame"}},
+        "song006": {"path": "assets/music/mist001.flac", "conditions": {"playsIn": "connecting"}},
+        "song007": {"path": "assets/music/mist002.flac", "conditions": {"playsIn": "menu"}}
+    },
+    "maps": {
+        "overworld_map": {"path": "assets/cache/heightmap.png"}
+    },
+    "dialogs": {
+        "end_credits": {"path": "assets/dialogs/credits_scene"}
+    },
+    "textures": {
+        "terrain_grass_1": {"path": "assets/textures/terrain/overworld_grass_1.jpg"},
+        "character_default_skin": {"path": "assets/textures/character_tex.jpg"},
+        "sun_default": {"path": "assets/textures/sun.png"},
+        "skybox_day": {"path": "assets/textures/skybox_texture.jpg"}
+    },
+    "animations": {
+        "walk_normal_1": {"path": "assets/animations/walk/normal.egg"}
+    },
+    "shader_directory": {"path": "assets/shaders/"},
+    "links": {"eula": "https://pastebin.com/EzrBbWVG"},
+    "splash_texts": {"path": "assets/splashes"},
+    "fonts": {
+        "mangabey": "assets/fonts/mangabey/MangabeyRegular.otf",
+        "edgegalaxy": "assets/fonts/edgeofthegalaxy/regular.otf",
+        "really": "assets/fonts/really/really.ttf",
+        "rondal": "assets/fonts/rondal/rondal.otf",
+        "gentium_basic": "assets/fonts/basic/basic.ttf",
+        "kritidev020": "assets/fonts/kritidev/kritidev.TTF"
+    },
+    "sounds": {
+        "notification001": "assets/sounds/notification.wav"
+    },
+    "models": {
+        "map": {"path":"assets/models/map_cube_huge.obj"},
+        "environment": {},
+        "items": {"path": "assets/models/monke.egg"},
+        "player": {"path": "assets/models/monke.egg"},
+        "skybox": {"path": "assets/models/skybox1024.egg"},
+        "chunk_test": {"path": "assets/models/map_chunk_placeholder.obj"},
+        "map_area_starting_plains": {"path": "assets/models/map_area_starting_plains.obj"},
+        "map_area_starting_plains_decoration": {"path": "assets/models/map_area_start5ing_decoration.obj"}
+    },
+    "mapobjects": {
+        "path": "assets/cache/objects.json"
+    },
+    "narrator_dialogs": {"en_US": "assets/narrator_data/en_US.json"}
+}

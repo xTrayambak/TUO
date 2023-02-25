@@ -1,0 +1,23 @@
+panda3d
+requests
+pyglet
+pypresence
+pyttsx3
+psutil
+pyscreenshot
+pydatanet
+distro
+colorama
+limeade
+PyMsgBox
+elevate
+lupa
+!!linux!! python-xlib
+!!mac!! pyobjc-framework-cocoa
+py-cpuinfo
+numpy
+google-api-python-client
+pillow
+pmw
+PyOpenAL
+PyOgg

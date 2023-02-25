@@ -1,0 +1,8 @@
+{
+    "ui.play": "Play",
+    "ui.settings": "Keluar",
+
+    "ui.settingmenu.video_settings.title": "Video Setings",
+    "ui.settingmenu.accessibility.title": "Aksessabiliti",
+    "ui.settingmenu.audio_settings.title": "Audio Setings"
+}
